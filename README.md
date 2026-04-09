@@ -1,6 +1,26 @@
-# DMIT发布圣诞活动特价优化线路机型
+# DMIT 特价优化线路机型
 
 特惠机型采用 AMD EPYC 9004 系列高性能硬体设施，提供优质中国优化线路，是面向个人和微型团队的性价比之选。
+
+DMIT日本CN2GIA正价套餐补货
+
+TYO.AS3.Tiny
+
+1C / 1G / 20G / 500G@1Gbps [$21.9/Monthly](https://www.dmit.io/aff.php?aff=828&pid=138)
+
+洛杉矶美西三网CN2GIA
+
+[LAX.AN4.Pro.TINY](https://www.dmit.io/aff.php?aff=828&pid=237)
+
+1 vCPU、2 GB RAM、20 GB SSD、2Gbps/超量4Mbps无限、1000 GB 流量、1 IPv4 & 1 IPv6 / 64
+
+——
+
+美西9929 + CMIN2
+ 
+[LAX.AN4.EB.TINY](https://www.dmit.io/aff.php?aff=828&pid=245)
+
+1 vCPU、2 GB RAM、20 GB SSD、1Gbps/超量4Mbps无限、1500 GB 流量、1 IPv4 & 1 IPv6 / 64 
 
 ## LAX.AN4.Pro.WEE
 
